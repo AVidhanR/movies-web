@@ -94,5 +94,3 @@ This project would not be possible without our amazing contributors and the comm
   </tbody>
 </table>
 
-# 💻 Visit website here
-<a href="https://movie-web.app"><kbd>🟢 website</kbd></a>
